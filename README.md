@@ -1,2 +1,2 @@
-# gameXzone-college_project-
-a simple game blog website
+# personal_project-
+a simple personal website
